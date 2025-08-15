@@ -11,4 +11,13 @@ header{
     font-size: 32px;
     color: rgb(42, 122, 228);
 }
+section{
+    background: rgb(184,156,213);
+    padding-bottom: 80px;
+    padding-top: 8px;
+    display: flex;
+    justify-contente: center;
+}
 
+div{
+    nargin-right:20px
